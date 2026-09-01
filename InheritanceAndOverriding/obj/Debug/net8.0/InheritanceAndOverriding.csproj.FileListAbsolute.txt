@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.exe
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.deps.json
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.runtimeconfig.json
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.dll
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\bin\Debug\net8.0\InheritanceAndOverriding.pdb
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.dll
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\refint\InheritanceAndOverriding.dll
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.pdb
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\InheritanceAndOverriding.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\dcit318-assignment2-22017695\InheritanceAndOverriding\obj\Debug\net8.0\ref\InheritanceAndOverriding.dll
